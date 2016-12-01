@@ -20,5 +20,4 @@ example:
 ```
 python label.py data/DEN_SFO_landing_mlt_20161126_153549_76s.csv
 ```
-
-![accelY](https://github.com/JeffOnABike/flight/blob/master/images/figure_1.png"Logo Title Text 1")
+![alt text](https://github.com/JeffOnABike/flight/blob/master/images/figure_1.png "accelY")
