@@ -21,4 +21,4 @@ example:
 python label.py data/DEN_SFO_landing_mlt_20161126_153549_76s.csv
 ```
 
-![accelY](https://github.com/adam-p/markdown-here/raw/master/src/common/images/figure_1.pnf "Logo Title Text 1")
+![accelY](https://github.com/adam-p/markdown-here/raw/master/src/common/images/figure_1.png "Logo Title Text 1")
